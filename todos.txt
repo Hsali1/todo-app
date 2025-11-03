@@ -1,7 +1,10 @@
-add a new player
-eat more
-repeat
-get the car
-clean the bag
-go to sleep
-Master Python
+Wake up
+Brush teeth
+Study Python
+Study more python
+Testing 1
+Testing 2.5
+Testing 3.5
+Testing 4.5
+My new todo is added
+I added one more todo
